@@ -1,0 +1,19 @@
+current directory: /workspaces/maxdelong-mainsite/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/local/rvm/rubies/ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /workspaces/maxdelong-mainsite/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230711-4398-nynu0k sitelibdir\=./.gem.20230711-4398-nynu0k clean
+
+current directory: /workspaces/maxdelong-mainsite/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230711-4398-nynu0k sitelibdir\=./.gem.20230711-4398-nynu0k
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /workspaces/maxdelong-mainsite/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230711-4398-nynu0k sitelibdir\=./.gem.20230711-4398-nynu0k install
+/usr/bin/install -m 0755 fastfilereaderext.so ./.gem.20230711-4398-nynu0k
+
+current directory: /workspaces/maxdelong-mainsite/vendor/bundle/ruby/3.2.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230711-4398-nynu0k sitelibdir\=./.gem.20230711-4398-nynu0k clean
